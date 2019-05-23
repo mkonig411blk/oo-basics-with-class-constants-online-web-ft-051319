@@ -13,4 +13,13 @@ BRANDS = []
     self.condition = "new"
     puts "Your shoe is as good as new!"
   end
+<<<<<<< HEAD
+=======
+  
+  def brand=(brand)
+    @brand = brand
+    BRANDS << genre 
+  end
+
+>>>>>>> 1be07b48e9ab440e0c91c1b19e52466dadb0c02c
 end
